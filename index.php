@@ -1,2 +1,2 @@
 <?php
-echo gethostaname();
+echo 'Test PHP';
